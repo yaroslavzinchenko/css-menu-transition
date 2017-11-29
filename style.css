@@ -96,8 +96,3 @@ body
 {
 	background: url(search.png) center no-repeat;
 }
-
-.menu a:first-child::before
-{
-	background: url(icons8-menu-500.png) center no-repeat;
-}
